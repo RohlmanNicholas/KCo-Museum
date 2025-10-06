@@ -9,18 +9,18 @@
 }
 
 a:link {
-  color: rgb(255, 255, 255);
+  color: rgba(242, 242, 243);
   text-decoration: none;
 }
 
 
 a:visited {
-  color: rgb(255, 255, 255);
+  color: rgba(242, 242, 243);
   text-decoration: none;
 }
 
 
 a:hover {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
